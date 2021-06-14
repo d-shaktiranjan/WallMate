@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Wall Mate</string>
+    <string name="des">Wallpaper</string>
+    <string name="buttonName">Next Image</string>
 </resources>
